@@ -31,5 +31,5 @@ If you're an affiliation/university/college and want to setup placeprep inside y
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/aPQVwJRPZP"><img src="https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=1416130839980412958&color=5865F2&label=Members&scale=1" alt="Discord members"></a>
+  <a href="https://discord.gg/aPQVwJRPZP"><img src="https://live-members-count.rohansrma.me/api/discord-members?guildId=1416130839980412958&color=5865F2&label=Members&scale=1" alt="Discord members"></a>
 </p>
